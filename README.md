@@ -10,7 +10,7 @@ The data is from my Excel course, which provides a foundation in analyzing data 
 
 ### Dashboard File
 My final dashboard is available here:  
-👉 [View Dashboard](./microsoft-excel-files/excel-data-jobs-dashboard.xlsx)
+👉 [View Dashboard](./microsoft-excel-files)
 
 ### Excel Skills Used
 
