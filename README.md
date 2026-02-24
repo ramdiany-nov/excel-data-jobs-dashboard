@@ -1,5 +1,5 @@
 
-# Excel Data Jobs Dashboard
+# 📊 Excel Data Jobs Dashboard
 
 *final dashboard preview:*
 <img width="1855" height="821" alt="final-data-job-dashboard" src="https://github.com/user-attachments/assets/ffccfee2-46c0-4939-a00e-5d33a878e9e6" />
@@ -12,22 +12,51 @@ The data is from my Excel course, which provides a foundation in analyzing data 
 My final dashboard is available here:  
 👉 [View Dashboard](./microsoft-excel-files)
 
-### Excel Skills Used
-
-The following Excel skills were utilized for analysis:
-
-- **📉 Charts**
-- **🧮 Formulas and Functions**
-- **❎ Data Validation**
-
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset used for this project contains 30.000+ rows real-world data science job information from 2023. It includes detailed information on job titles, salaries, locations, and skills.  
+👉 [View Dataset](./datasets)
 
-- **👨‍💼 Job titles**
-- **💰 Salaries**
-- **📍 Locations**
-- **🛠️ Skills**
+## 🎯 Key Objectives  
+
+- Analyse salary trends across data roles  
+- Build an interactive dashboard  
+- Apply formulas for dynamic insights  
+- Present findings through visualisations  
+
+### 🛠️ Skills Demonstrated  
+
+- Data visualisation (charts & dashboard design)  
+- Advanced Excel formulas and functions 
+- Data validation & interactivity  
+- Data cleaning and preparation  
+- Analytical thinking  
+
+## 📊 Dashboard Highlights  
+
+- Interactive filters for job title, country, and schedule type  
+- Salary comparison across roles  
+- Geographic salary distribution  
+- Dynamic calculations based on user input  
+
+## 🔍 Key Insights  
+
+- Senior and engineering roles show higher median salaries  
+- Salaries vary significantly by country  
+- Job schedule type influences compensation  
+
+## 🧠 What This Project Shows  
+
+This project highlights my ability to:  
+
+- Turn raw data into meaningful insights  
+- Build clean and user-friendly dashboards  
+- Communicate findings through visual storytelling  
+- Use Excel as a data analysis tool  
+
+## 📌 Tools  
+
+- Microsoft Excel 
 
 ## Dashboard Build
 
@@ -60,6 +89,7 @@ The dataset used for this project contains real-world data science job informati
 - 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that full-time are higher-paying than other job schedule types.
 
+
 ### 🧮 Formulas and Functions
 
 #### 💰 Median Salary by Job Titles
@@ -82,17 +112,6 @@ IF(
 - **🔢 Formula Purpose:** This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
 
-🍽️ Background Table
-
-<img width="301" height="250" alt="1_Salary_Dashboard_Screenshot1" src="https://github.com/user-attachments/assets/bff31e84-2afa-494c-aca2-91e2b0ff4a5b" />
-
---
-
-📉 Dashboard Implementation
-
-<img width="350" height="363" alt="median-salaries" src="https://github.com/user-attachments/assets/bd8aff59-52a8-444c-bc15-443f84d7b336" />
-
-
 #### ⏰ Count of Job Schedule Type
 
 ```
@@ -102,42 +121,33 @@ IF(
 - 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
 - **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
 
-🍽️ Background Table
 
-<img width="147" height="150" alt="1_Salary_Dashboard_Screenshot2" src="https://github.com/user-attachments/assets/8d1ad793-6f7c-4b7f-a524-9457acd23607" />
-
---
-
-
-📉 Dashboard Implementation:
-
-<img width="350" height="436" alt="job-count-by-type" src="https://github.com/user-attachments/assets/61049ba0-980c-4187-96ef-39271dee50cb" />
 
 ### ❎ Data Validation
 
 #### 🔍 Filtered List
 
-- 🔒 **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
-    - 🎯 User input is restricted to predefined, validated schedule types
-    - 🚫 Incorrect or inconsistent entries are prevented
-    - 👥 Overall usability of the dashboard is enhanced
+- 🔒 **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:  
+      🎯 User input is restricted to predefined, validated schedule types  
+      🚫 Incorrect or inconsistent entries are prevented  
+      👥 Overall usability of the dashboard is enhanced  
 
 
-job title filter:
+    - job title filter:
 
-<img width="330" height="276" alt="job-title-filter" src="https://github.com/user-attachments/assets/c4e9516f-62c4-4f54-9ef6-51ed56f9978a" />
+        <img width="330" height="276" alt="job-title-filter" src="https://github.com/user-attachments/assets/c4e9516f-62c4-4f54-9ef6-51ed56f9978a" />
 
---
 
-country filter:
 
-<img width="281" height="301" alt="country-filter" src="https://github.com/user-attachments/assets/c42946fa-c6a8-4d94-aad3-51601d19e419" />
+    - country filter:
 
---
+        <img width="281" height="301" alt="country-filter" src="https://github.com/user-attachments/assets/c42946fa-c6a8-4d94-aad3-51601d19e419" />
 
-job type filter:
 
-<img width="327" height="183" alt="type-filter" src="https://github.com/user-attachments/assets/b12c7b0a-3849-45c3-8dbb-2ccccc50e4a2" />  
+
+    - job type filter:
+
+        <img width="327" height="183" alt="type-filter" src="https://github.com/user-attachments/assets/b12c7b0a-3849-45c3-8dbb-2ccccc50e4a2" />  
 
 
 
