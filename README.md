@@ -143,3 +143,12 @@ job type filter:
 ## Conclusion
 
 I created this dashboard to showcase insights into salary trends across various data-related job titles. This dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+
+
+---
+## 🌟 About Me
+
+Hi there! I'm **Novia Noer Ramdiany**. I’m passionate on data fields.
+
+Let's stay in touch! Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/noviaramdiany/
+
