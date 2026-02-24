@@ -1,5 +1,5 @@
 
-# Data Jobs Dashboard
+# Excel Data Jobs Dashboard
 
 *final dashboard preview:*
 <img width="1855" height="821" alt="final-data-job-dashboard" src="https://github.com/user-attachments/assets/ffccfee2-46c0-4939-a00e-5d33a878e9e6" />
